@@ -54,7 +54,12 @@ sudo systemctl enable apache2
 sudo systemctl start apache2
 sudo systemctl status apache2  # Debe mostrar "active (running)"
 Pruebas de funcionamiento
+<img width="1275" height="630" alt="image" src="https://github.com/user-attachments/assets/36127db5-25a0-4b93-b698-c50499fe7a8e" />
+
+
 Prueba local dentro de la máquina:
 
 Bash
 curl http://localhost
+<img width="1916" height="1013" alt="image" src="https://github.com/user-attachments/assets/0377e6fb-209a-4841-85c1-c4edb957f913" />
+
