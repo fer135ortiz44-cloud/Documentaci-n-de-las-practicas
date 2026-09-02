@@ -60,6 +60,7 @@ Pruebas de funcionamiento
 Prueba local dentro de la máquina:
 
 Bash
-curl http://localhost
-<img width="1916" height="1013" alt="image" src="https://github.com/user-attachments/assets/0377e6fb-209a-4841-85c1-c4edb957f913" />
+curl http://158.23.57.17/
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/063bc5ef-3f30-4dd2-ae62-661b1fdfdec6" />
+
 
